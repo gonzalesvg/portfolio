@@ -57,6 +57,10 @@ p.lead {
   font-style:italic;
 }
 
+.arabic{
+  border:0.5px solid rgba(255, 255, 255, 0.2);
+}
+
 .social-icons a {
   display: inline-block;
   height: 3.5rem;
