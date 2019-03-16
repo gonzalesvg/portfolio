@@ -57,10 +57,6 @@ p.lead {
   font-style:italic;
 }
 
-.arabic{
-  border:0.5px solid rgba(255, 255, 255, 0.2);
-}
-
 .social-icons a {
   display: inline-block;
   height: 3.5rem;
@@ -79,7 +75,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color:rgba(199, 37, 214, 0.87);
 }
 
 .dev-icons {
@@ -126,7 +122,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border: 0.2rem solid rgba(230, 198, 235, 0.973);
   }
   #sideNav .navbar-collapse {
     display: -webkit-box;
@@ -183,17 +179,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #5f9ea0 !important;
+  background-color:rgb(18, 119, 111) !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color:rgba(50, 161, 137, 0.87) !important;
 }
 
 a {
-  color: #BD5D38;
+  color:#c6edee !important;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color:white !important;
 }
